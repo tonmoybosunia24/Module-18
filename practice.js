@@ -138,3 +138,49 @@
 //               console.log(books[i]);
 //        }
 // }
+
+// var roastgiven = 0;
+// while(roastgiven <= 7){
+//        console.log("Roast Den Plz")
+//        console.log(roastgiven)
+//        roastgiven++;
+// }
+// var num = 1;
+// while(num <= 20){
+//        console.log(num)
+//        num++;
+// }
+// var number = 0;
+// while(number <= 500){
+//        console.log(number);
+//        number += 2;
+// }
+// for(var roastGiven = 0; roastGiven <= 7; roastGiven++){
+//        console.log(roastGiven);
+//        console.log("Roast Den Plz");
+// }
+// for(var i = 0; i <= 20; i++){
+//        console.log(i)
+// }
+// var numbers = [45, 47, 50, 55, 70, 63, 22, 46];
+// for(var i = 0; i < numbers.length; i++){
+//        var number = numbers[i];
+//        console.log(number)
+// }
+// for(var i = 0; i <= 20; i++){
+//        console.log(i);
+//        if(i >= 10){
+//               break;
+//        }
+// }
+// var numbers = [21, 22, 29, 24, 25, 26, 27, 28, 29, 30, 40, 200, 23, 22,201];
+// for(var i = 0; i < numbers.length; i++){
+//        number = numbers[i];
+//        if(number >= 30){
+//               continue;
+//        }
+//        console.log(number)
+// }
+// for(var number = 10; number > 0; number--){
+//        console.log(number)
+// }
